@@ -25,16 +25,17 @@ API выполняют следующие действия:
 Все методы репозитория определены в классах (необходимо подумать, как сделать толково)
 
 Структура проекта:
-├── src
-| ├─database
-│ | ├── database.py
-│ | └── models.py
-│ ├── repository
-│ | ├── contacts.py
-│ |  
-│ ├── routes
-│ | ├── contacts.py
-│ |  
-│ └── schemas.py
-├
-└── main.py
+
+- ├── src
+- | ├─database
+- │ | ├── database.py
+- │ | └── models.py
+- │ ├── repository
+- │ | ├── contacts.py
+- │ |
+- │ ├── routes
+- │ | ├── contacts.py
+- │ |
+- │ └── schemas.py
+- ├
+- └── main.py
